@@ -1,0 +1,25 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://ajeetkaido@bitbucket.org/aidoeng/aidohealth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ajeetkaido@bitbucket.org/aidoeng/homemaintenance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ajeetkaido@bitbucket.org/ajeetkaido/pra-and-social-telecast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ajeetkaido@bitbucket.org/aidoeng/SocialTelecast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="SocialTelecastV1" />
+  </component>
+</application>
