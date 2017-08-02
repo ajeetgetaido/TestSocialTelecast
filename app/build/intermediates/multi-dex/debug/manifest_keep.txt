@@ -1,3 +1,0 @@
-# view AndroidManifest.xml #generated:31
--keep class android.support.multidex.MultiDexApplication { <init>(...); }
-
